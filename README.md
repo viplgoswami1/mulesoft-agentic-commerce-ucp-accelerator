@@ -12,7 +12,7 @@ This project demonstrates a full **API-Led Connectivity** architecture using Mul
 | Layer | Repository | Responsibility |
 | :--- | :--- | :--- |
 | **Experience (EAPI)** | https://github.com/viplgoswami1/mulesoft-gemini-agentic-eapi (#) | Gemini-native checkout endpoints (UCP compliant). |
-| **Process (PAPI)** | [Link to PAPI Repo](#) | Orchestrating order fulfillment and inventory logic. |
+| **Process (PAPI)** | [[Link to PAPI Repo](https://github.com/viplgoswami1/mulesoft-gemini-agentic-eapi)](#) | Orchestrating order fulfillment and inventory logic. |
 | **System (SAPI)** | [Link to SAPI Repo](#) | Connectivity to SAP, Salesforce, and Payment Gateways. |
 
 ### 🛠️ Tech Stack
